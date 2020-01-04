@@ -6,7 +6,7 @@ install packages
 `npm install`
 
 start
-`nnpm run start`
+`npm run start`
 
 ### client/
 install packages
