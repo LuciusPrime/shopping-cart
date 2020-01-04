@@ -4,7 +4,7 @@
 api/ install packages
 `npm install`
 
-api/ start express
+api/ start express -
 start before client/build
 `node index.js`
 
