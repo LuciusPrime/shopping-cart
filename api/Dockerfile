@@ -8,5 +8,5 @@ RUN npm install
 
 COPY . /app
 
-EXPOSE 4000
-CMD node index.js
+EXPOSE 4001
+CMD ["npm", "start"]
