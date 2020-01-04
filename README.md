@@ -1,5 +1,5 @@
 
-##Availible Scripts
+#Availible Scripts
 ---
 api/ install packages
 `npm install`
