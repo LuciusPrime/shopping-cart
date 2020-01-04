@@ -1,18 +1,22 @@
 
 ## Availible Scripts
----
-api/ install packages
+
+### api/
+install packages
 `npm install`
 
-api/ start express -
-start before client/build
-`node index.js`
+start
+`nnpm run start`
 
-client/ install packages
+### client/
+install packages
 `npm install`
 
-client/build dist files
+build dist files
 `npm run build`
 
-client/ start vue client
+start vue client
 `npm run serve`
+
+run dev
+`npm run start`
