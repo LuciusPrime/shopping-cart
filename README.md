@@ -18,5 +18,5 @@ build dist files
 start vue client
 `npm run serve`
 
-run dev
+run dev - start api and start vue client
 `npm run start`
